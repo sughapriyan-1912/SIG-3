@@ -18,3 +18,8 @@ Wokwi Simulation:https://wokwi.com/projects/476559493775332353
 Day 3 ESP32 project: read a potentiometer value on GPIO 34 and print it to the Serial Monitor every 500 ms. Simulated in Wokwi.
 
 Wokwi Simulation:https://wokwi.com/projects/476560013491739649
+
+## Day 4
+Day 4 ESP32 project: use a potentiometer to control an external LED’s brightness with PWM. Simulated in Wokwi.
+
+Wokwi Simulation:https://wokwi.com/projects/476560427957283841
