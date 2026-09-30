@@ -27,7 +27,7 @@ Wokwi Simulation:https://wokwi.com/projects/476560427957283841
 ## Day-5 ESP32 WiFi Connection
 This project demonstrates how to connect an ESP32 DevKit v1 to the WiFi network provided by the Wokwi simulator. After successfully connecting, the ESP32 displays its assigned IP address in the Serial Monitor.
 
-## Hardware Required:
+### Hardware Required:
 ESP32 DevKit v1
 
 No external components are required for this project.
