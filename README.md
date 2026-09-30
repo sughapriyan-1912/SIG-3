@@ -32,11 +32,11 @@ ESP32 DevKit v1
 
 No external components are required for this project.
 
-## WiFi Configuration:
+### WiFi Configuration:
 WiFi Network: Wokwi-GUEST
 Password: No password required
 
-## Steps to Run:
+### Steps to Run:
 Open the Wokwi simulation.
 Start the simulation by clicking Play.
 Open the Serial Monitor.
