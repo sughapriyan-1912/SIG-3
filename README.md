@@ -2,7 +2,7 @@
 
 ## Day 1
 
-Day 1 project files.
+Day 1 ESP32 blink challenge, simulated in Wokwi. Blinks the built-in LED at one-second intervals.
 Wokwi Simulation:https://wokwi.com/projects/476387543073018881
 
 
